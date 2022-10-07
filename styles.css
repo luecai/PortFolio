@@ -12,7 +12,7 @@ html {
 }
 
 #inicio{
-    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url("resource/FondoPagina.webp");
+    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url("resource/pf-43948cc3--keychronk6nonbacklightwiredwirelessmechanicalkeyboard4-Edited.webp");
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -331,7 +331,7 @@ html {
     position: absolute;
     left: 0;
     background-color: rgba(0,0,0,.8);
-    color: aquamarine;
+    color: #d3d3d3;
     width: 100%;
     padding: 10px;
     opacity: 0;
